@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="pdb" type="PLAIN_TEXT" />
       <mapping pattern="IslandSnowLogo" type="TypeScript JSX" />
     </extensionMap>
   </component>
